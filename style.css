@@ -21,3 +21,17 @@ body{
 .logo-navbar {
     text-align: center;
 }
+
+.corpo{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 40px;
+    width: 100%;}
+
+.section__corpo{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+}
